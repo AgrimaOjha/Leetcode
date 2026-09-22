@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AgrimaOjha/Leetcode/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/AgrimaOjha/Leetcode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AgrimaOjha/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AgrimaOjha/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AgrimaOjha/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
