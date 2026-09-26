@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AgrimaOjha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AgrimaOjha/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0274-h-index](https://github.com/AgrimaOjha/Leetcode/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AgrimaOjha/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AgrimaOjha/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/AgrimaOjha/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/AgrimaOjha/Leetcode/tree/master/0274-h-index) |
 ## Backtracking
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AgrimaOjha/Leetcode/tree/master/0055-jump-game) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/AgrimaOjha/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
