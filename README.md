@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AgrimaOjha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AgrimaOjha/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/AgrimaOjha/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/AgrimaOjha/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/AgrimaOjha/Leetcode/tree/master/0274-h-index) |
 ## Hash Table
 |  |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/AgrimaOjha/Leetcode/tree/master/0274-h-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/AgrimaOjha/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
