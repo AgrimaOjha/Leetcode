@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AgrimaOjha/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AgrimaOjha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AgrimaOjha/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/AgrimaOjha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/AgrimaOjha/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/AgrimaOjha/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AgrimaOjha/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AgrimaOjha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AgrimaOjha/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/AgrimaOjha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AgrimaOjha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AgrimaOjha/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AgrimaOjha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/AgrimaOjha/Leetcode/tree/master/0055-jump-game) |
 ## Greedy
 |  |
@@ -119,9 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AgrimaOjha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AgrimaOjha/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AgrimaOjha/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AgrimaOjha/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
