@@ -46,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AgrimaOjha/Leetcode/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/AgrimaOjha/Leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/AgrimaOjha/Leetcode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AgrimaOjha/Leetcode/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/AgrimaOjha/Leetcode/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AgrimaOjha/Leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/AgrimaOjha/Leetcode/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/AgrimaOjha/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/AgrimaOjha/Leetcode/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/AgrimaOjha/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AgrimaOjha/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Sliding Window
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AgrimaOjha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/AgrimaOjha/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/AgrimaOjha/Leetcode/tree/master/0224-basic-calculator) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AgrimaOjha/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
