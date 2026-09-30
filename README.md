@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AgrimaOjha/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/AgrimaOjha/Leetcode/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/AgrimaOjha/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AgrimaOjha/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AgrimaOjha/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Sliding Window
 |  |
@@ -146,10 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AgrimaOjha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/AgrimaOjha/Leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/AgrimaOjha/Leetcode/tree/master/0224-basic-calculator) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AgrimaOjha/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AgrimaOjha/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AgrimaOjha/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AgrimaOjha/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AgrimaOjha/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Monotonic Stack
