@@ -36,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AgrimaOjha/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AgrimaOjha/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AgrimaOjha/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/AgrimaOjha/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/AgrimaOjha/Leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/AgrimaOjha/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AgrimaOjha/Leetcode/tree/master/0002-add-two-numbers) |
+| [0138-copy-list-with-random-pointer](https://github.com/AgrimaOjha/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
 | ------- |
