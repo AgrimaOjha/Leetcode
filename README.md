@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AgrimaOjha/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/AgrimaOjha/Leetcode/tree/master/0155-min-stack) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AgrimaOjha/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AgrimaOjha/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AgrimaOjha/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
