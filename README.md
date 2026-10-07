@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AgrimaOjha/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/AgrimaOjha/Leetcode/tree/master/0274-h-index) |
 | [0399-evaluate-division](https://github.com/AgrimaOjha/Leetcode/tree/master/0399-evaluate-division) |
+| [0909-snakes-and-ladders](https://github.com/AgrimaOjha/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AgrimaOjha/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AgrimaOjha/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AgrimaOjha/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0909-snakes-and-ladders](https://github.com/AgrimaOjha/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AgrimaOjha/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Dynamic Programming
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/AgrimaOjha/Leetcode/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AgrimaOjha/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0909-snakes-and-ladders](https://github.com/AgrimaOjha/Leetcode/tree/master/0909-snakes-and-ladders) |
 ## Binary Search Tree
 |  |
 | ------- |
