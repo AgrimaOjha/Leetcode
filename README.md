@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/AgrimaOjha/Leetcode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/AgrimaOjha/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/AgrimaOjha/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/AgrimaOjha/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AgrimaOjha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AgrimaOjha/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AgrimaOjha/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AgrimaOjha/Leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/AgrimaOjha/Leetcode/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/AgrimaOjha/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/AgrimaOjha/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/AgrimaOjha/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AgrimaOjha/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AgrimaOjha/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AgrimaOjha/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/AgrimaOjha/Leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/AgrimaOjha/Leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0212-word-search-ii) |
 ## Simulation
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AgrimaOjha/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AgrimaOjha/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/AgrimaOjha/Leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0212-word-search-ii) |
 | [0909-snakes-and-ladders](https://github.com/AgrimaOjha/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AgrimaOjha/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AgrimaOjha/Leetcode/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AgrimaOjha/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0210-course-schedule-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0210-course-schedule-ii) |
