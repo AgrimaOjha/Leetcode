@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AgrimaOjha/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AgrimaOjha/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/AgrimaOjha/Leetcode/tree/master/0274-h-index) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/AgrimaOjha/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/AgrimaOjha/Leetcode/tree/master/0399-evaluate-division) |
 | [0909-snakes-and-ladders](https://github.com/AgrimaOjha/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AgrimaOjha/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AgrimaOjha/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/AgrimaOjha/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Merge Sort
 |  |
 | ------- |
