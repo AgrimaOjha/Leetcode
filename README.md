@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AgrimaOjha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AgrimaOjha/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/AgrimaOjha/Leetcode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/AgrimaOjha/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/AgrimaOjha/Leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0137-single-number-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AgrimaOjha/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AgrimaOjha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/AgrimaOjha/Leetcode/tree/master/0055-jump-game) |
+| [0120-triangle](https://github.com/AgrimaOjha/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/AgrimaOjha/Leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/AgrimaOjha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/AgrimaOjha/Leetcode/tree/master/0678-valid-parenthesis-string) |
