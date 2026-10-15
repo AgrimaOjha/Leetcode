@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AgrimaOjha/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/AgrimaOjha/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AgrimaOjha/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AgrimaOjha/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/AgrimaOjha/Leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/AgrimaOjha/Leetcode/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/AgrimaOjha/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/AgrimaOjha/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AgrimaOjha/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AgrimaOjha/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/AgrimaOjha/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AgrimaOjha/Leetcode/tree/master/0155-min-stack) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AgrimaOjha/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0232-implement-queue-using-stacks](https://github.com/AgrimaOjha/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/AgrimaOjha/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
