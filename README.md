@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AgrimaOjha/Leetcode/tree/master/0002-add-two-numbers) |
+| [0089-gray-code](https://github.com/AgrimaOjha/Leetcode/tree/master/0089-gray-code) |
 | [0224-basic-calculator](https://github.com/AgrimaOjha/Leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/AgrimaOjha/Leetcode/tree/master/0258-add-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AgrimaOjha/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AgrimaOjha/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/AgrimaOjha/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/AgrimaOjha/Leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/AgrimaOjha/Leetcode/tree/master/0089-gray-code) |
 | [0212-word-search-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0212-word-search-ii) |
 ## Simulation
 |  |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/AgrimaOjha/Leetcode/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/AgrimaOjha/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Longest Increasing Subsequence
