@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/AgrimaOjha/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AgrimaOjha/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AgrimaOjha/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AgrimaOjha/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AgrimaOjha/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AgrimaOjha/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/AgrimaOjha/Leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/AgrimaOjha/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/AgrimaOjha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AgrimaOjha/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AgrimaOjha/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AgrimaOjha/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AgrimaOjha/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/AgrimaOjha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/AgrimaOjha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AgrimaOjha/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
