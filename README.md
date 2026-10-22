@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AgrimaOjha/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/AgrimaOjha/Leetcode/tree/master/0089-gray-code) |
 | [0212-word-search-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0212-word-search-ii) |
+| [0401-binary-watch](https://github.com/AgrimaOjha/Leetcode/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
 | ------- |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/AgrimaOjha/Leetcode/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/AgrimaOjha/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0401-binary-watch](https://github.com/AgrimaOjha/Leetcode/tree/master/0401-binary-watch) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
