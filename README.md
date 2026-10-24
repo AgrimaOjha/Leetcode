@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AgrimaOjha/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/AgrimaOjha/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/AgrimaOjha/Leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/AgrimaOjha/Leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/AgrimaOjha/Leetcode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/AgrimaOjha/Leetcode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/AgrimaOjha/Leetcode/tree/master/0097-interleaving-string) |
