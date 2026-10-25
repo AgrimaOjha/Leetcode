@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/AgrimaOjha/Leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/AgrimaOjha/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/AgrimaOjha/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/AgrimaOjha/Leetcode/tree/master/0412-fizz-buzz) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AgrimaOjha/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/AgrimaOjha/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AgrimaOjha/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AgrimaOjha/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0399-evaluate-division](https://github.com/AgrimaOjha/Leetcode/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/AgrimaOjha/Leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/AgrimaOjha/Leetcode/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/AgrimaOjha/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AgrimaOjha/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AgrimaOjha/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/AgrimaOjha/Leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/AgrimaOjha/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/AgrimaOjha/Leetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
