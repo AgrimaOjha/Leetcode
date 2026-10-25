@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AgrimaOjha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AgrimaOjha/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/AgrimaOjha/Leetcode/tree/master/0399-evaluate-division) |
+| [0414-third-maximum-number](https://github.com/AgrimaOjha/Leetcode/tree/master/0414-third-maximum-number) |
 | [0909-snakes-and-ladders](https://github.com/AgrimaOjha/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AgrimaOjha/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1254-number-of-closed-islands](https://github.com/AgrimaOjha/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/AgrimaOjha/Leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/AgrimaOjha/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/AgrimaOjha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/AgrimaOjha/Leetcode/tree/master/0414-third-maximum-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AgrimaOjha/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AgrimaOjha/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AgrimaOjha/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
