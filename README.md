@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/AgrimaOjha/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AgrimaOjha/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AgrimaOjha/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AgrimaOjha/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/AgrimaOjha/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AgrimaOjha/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AgrimaOjha/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AgrimaOjha/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AgrimaOjha/Leetcode/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/AgrimaOjha/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AgrimaOjha/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0210-course-schedule-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0210-course-schedule-ii) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/AgrimaOjha/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AgrimaOjha/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AgrimaOjha/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
