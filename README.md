@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/AgrimaOjha/Leetcode/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/AgrimaOjha/Leetcode/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AgrimaOjha/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0455-assign-cookies](https://github.com/AgrimaOjha/Leetcode/tree/master/0455-assign-cookies) |
 | [0909-snakes-and-ladders](https://github.com/AgrimaOjha/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AgrimaOjha/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1254-number-of-closed-islands](https://github.com/AgrimaOjha/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/AgrimaOjha/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/AgrimaOjha/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AgrimaOjha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/AgrimaOjha/Leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/AgrimaOjha/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/AgrimaOjha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/AgrimaOjha/Leetcode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/AgrimaOjha/Leetcode/tree/master/0455-assign-cookies) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AgrimaOjha/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AgrimaOjha/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AgrimaOjha/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AgrimaOjha/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/AgrimaOjha/Leetcode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/AgrimaOjha/Leetcode/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/AgrimaOjha/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AgrimaOjha/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AgrimaOjha/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AgrimaOjha/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -514,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AgrimaOjha/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/AgrimaOjha/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
