@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/AgrimaOjha/Leetcode/tree/master/0089-gray-code) |
 | [0224-basic-calculator](https://github.com/AgrimaOjha/Leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/AgrimaOjha/Leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/AgrimaOjha/Leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/AgrimaOjha/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AgrimaOjha/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/AgrimaOjha/Leetcode/tree/master/0441-arranging-coins) |
@@ -545,4 +546,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/AgrimaOjha/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AgrimaOjha/Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AgrimaOjha/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AgrimaOjha/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AgrimaOjha/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AgrimaOjha/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
