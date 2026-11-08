@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AgrimaOjha/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/AgrimaOjha/Leetcode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AgrimaOjha/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0504-base-7](https://github.com/AgrimaOjha/Leetcode/tree/master/0504-base-7) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AgrimaOjha/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/AgrimaOjha/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AgrimaOjha/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AgrimaOjha/Leetcode/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/AgrimaOjha/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/AgrimaOjha/Leetcode/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/AgrimaOjha/Leetcode/tree/master/0504-base-7) |
 | [0678-valid-parenthesis-string](https://github.com/AgrimaOjha/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AgrimaOjha/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AgrimaOjha/Leetcode/tree/master/1021-remove-outermost-parentheses) |
