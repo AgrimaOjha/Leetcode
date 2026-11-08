@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/AgrimaOjha/Leetcode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AgrimaOjha/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/AgrimaOjha/Leetcode/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/AgrimaOjha/Leetcode/tree/master/0507-perfect-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AgrimaOjha/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/AgrimaOjha/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AgrimaOjha/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
