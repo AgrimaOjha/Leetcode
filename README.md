@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/AgrimaOjha/Leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/AgrimaOjha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/AgrimaOjha/Leetcode/tree/master/0561-array-partition) |
+| [0598-range-addition-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0598-range-addition-ii) |
 | [0766-toeplitz-matrix](https://github.com/AgrimaOjha/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0909-snakes-and-ladders](https://github.com/AgrimaOjha/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AgrimaOjha/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AgrimaOjha/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/AgrimaOjha/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/AgrimaOjha/Leetcode/tree/master/0507-perfect-number) |
+| [0598-range-addition-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0598-range-addition-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/AgrimaOjha/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AgrimaOjha/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AgrimaOjha/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
