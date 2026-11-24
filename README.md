@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/AgrimaOjha/Leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/AgrimaOjha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/AgrimaOjha/Leetcode/tree/master/0561-array-partition) |
+| [0766-toeplitz-matrix](https://github.com/AgrimaOjha/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0909-snakes-and-ladders](https://github.com/AgrimaOjha/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AgrimaOjha/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1254-number-of-closed-islands](https://github.com/AgrimaOjha/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AgrimaOjha/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/AgrimaOjha/Leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0212-word-search-ii) |
+| [0766-toeplitz-matrix](https://github.com/AgrimaOjha/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0909-snakes-and-ladders](https://github.com/AgrimaOjha/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [1254-number-of-closed-islands](https://github.com/AgrimaOjha/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/AgrimaOjha/Leetcode/tree/master/1267-count-servers-that-communicate) |
