@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/AgrimaOjha/Leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/AgrimaOjha/Leetcode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/AgrimaOjha/Leetcode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/AgrimaOjha/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/AgrimaOjha/Leetcode/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/AgrimaOjha/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/AgrimaOjha/Leetcode/tree/master/0139-word-break) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AgrimaOjha/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AgrimaOjha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/AgrimaOjha/Leetcode/tree/master/0055-jump-game) |
+| [0091-decode-ways](https://github.com/AgrimaOjha/Leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AgrimaOjha/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/AgrimaOjha/Leetcode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/AgrimaOjha/Leetcode/tree/master/0120-triangle) |
